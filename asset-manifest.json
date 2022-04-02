@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Happy_Advice/static/css/main.ad30a66e.css",
+    "main.js": "/Happy_Advice/static/js/main.52d1db0c.js",
+    "index.html": "/Happy_Advice/index.html",
+    "main.ad30a66e.css.map": "/Happy_Advice/static/css/main.ad30a66e.css.map",
+    "main.52d1db0c.js.map": "/Happy_Advice/static/js/main.52d1db0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad30a66e.css",
+    "static/js/main.52d1db0c.js"
+  ]
+}
