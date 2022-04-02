@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Roboto+Slab:wght@200&display=swap');
+
+.btn{
+    width: 5rem;
+    height: 2.5rem;
+    box-sizing: border-box;
+    border-radius: 25px;
+    font-family: 'Hubballi', cursive;
+    font-size: 20px;
+}
+.reactive-btn.light.outline{
+    color: #080808 !important;
+    font-family: 'Hubballi', cursive !important;
+    font-size: 23px;
+    background-color: rgba(185, 136, 149, 0.637) !important;
+}

@@ -1,0 +1,40 @@
+@import "./scss/reset", "./scss/variables";
+
+.container-card {
+  border: 1px solid #cde7e3;
+  width: 50rem;
+  height: auto;
+  padding-bottom: 20px;
+  background-color: #bdc3c791;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+  // box-shadow:  1px 2px black, 0 0 25px #0a0a0a, 0 0 5px #080808;
+  border-radius: 25px;
+}
+
+.title {
+  text-align: center;
+  color: #000000;
+  margin-top: 20px;
+  font-weight: lighter;
+}
+.advice-container {
+  margin-top: 20px;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.background{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
